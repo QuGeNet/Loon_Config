@@ -2,10 +2,5 @@
 # AUTHOR: QuGeNet
 # REPO: https://github.com/QuGeNet/Loon_Config
 # UPDATED: 2024-03-19
-DOMAIN-SUFFIX,ec5-core-hl.ecombdapi.com
-DOMAIN-SUFFIX,ec3-core-hl.ecombdapi.com
-DOMAIN-SUFFIX,ecom5-normal-hl.ecombdapi.com
-DOMAIN-SUFFIX,ecom3-normal-hl.ecombdapi.com
-DOMAIN-SUFFIX,lf5-webcast-cdn-tos.bytegecko.com
-DOMAIN-SUFFIX,lf9-webcast-cdn-tos-ncdn.bytegecko.com
-DOMAIN-SUFFIX,lf6-cj-cdn-tos.bytegecko.com
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,bytegecko.com
