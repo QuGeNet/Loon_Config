@@ -1,0 +1,7 @@
+# NAME: Advertising
+# AUTHOR: QuGeNet
+# REPO: https://github.com/QuGeNet/Loon_Config
+# UPDATED: 2024-03-19
+DOMAIN-SUFFIX,ecom5-normal-hl.ecombdapi.com
+DOMAIN-SUFFIX,lf5-webcast-cdn-tos.bytegecko.com
+DOMAIN-SUFFIX,lf9-webcast-cdn-tos-ncdn.bytegecko.com
